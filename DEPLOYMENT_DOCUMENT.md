@@ -1,16 +1,9 @@
-# Environment Variables Used in Weather-App
+# Environment Variables Report
+Scanned Branch: **main**
 
-Scanned branch: `main`
-
-## Variables Found
-- `API_KEY`
-- `city`
-- `err?.message`
-- `lat`
-- `lon`
-- `weatherInfo?.clouds?.all.toFixed(2)`
-- `weatherInfo?.main?.humidity.toFixed(2)`
-- `weatherInfo?.main?.temp.toFixed(2)`
-- `weatherInfo?.sys?.country.toLowerCase()`
-- `weatherInfo?.weather?.[0]?.icon`
-- `weatherInfo?.wind?.speed.toFixed(2)`
+## /home/runner/work/markdown-automation/markdown-automation/scripts/scan_envs.py
+- `TARGET_BRANCH`
+- `encoding`
+- `errors`
+- `format`
+- `main`
